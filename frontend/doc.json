@@ -1,0 +1,82 @@
+[
+  {
+    "titre": "Gestionnaire de projet",
+    "description": "Coordination des activités, suivi d'exécution et gestion d’équipe.",
+    "lieu": "Cotonou",
+    "typeContrat": "CDI",
+    "datePublication": "2025-07-21T08:00:00Z",
+    "entreprise": "Agrivision Holding"
+  },
+  {
+    "titre": "Chauffeur",
+    "description": "Transport du personnel et des marchandises en toute sécurité.",
+    "lieu": "Porto-Novo",
+    "typeContrat": "CDD",
+    "datePublication": "2025-07-20T09:30:00Z",
+    "entreprise": "Agrivision Holding"
+  },
+  {
+    "titre": "Barman",
+    "description": "Préparation de cocktails, service au comptoir et accueil des clients.",
+    "lieu": "Bohicon",
+    "typeContrat": "CDI",
+    "datePublication": "2025-07-19T11:00:00Z",
+    "entreprise": "Agrivision Holding"
+  },
+  {
+    "titre": "Ménagère",
+    "description": "Nettoyage des locaux, entretien quotidien et aide domestique.",
+    "lieu": "Abomey-Calavi",
+    "typeContrat": "Temps partiel",
+    "datePublication": "2025-07-18T14:00:00Z",
+    "entreprise": "Agrivision Holding"
+  },
+  {
+    "titre": "Agent de sécurité",
+    "description": "Surveillance des lieux, contrôle d’accès et gestion des incidents.",
+    "lieu": "Cotonou",
+    "typeContrat": "CDI",
+    "datePublication": "2025-07-17T07:45:00Z",
+    "entreprise": "Agrivision Holding"
+  },
+  {
+    "titre": "Assistant administratif",
+    "description": "Gestion des dossiers, accueil physique et téléphonique.",
+    "lieu": "Parakou",
+    "typeContrat": "CDD",
+    "datePublication": "2025-07-16T10:30:00Z",
+    "entreprise": "Agrivision Holding"
+  },
+  {
+    "titre": "Cuisinier",
+    "description": "Préparation des plats, gestion des stocks et hygiène alimentaire.",
+    "lieu": "Natitingou",
+    "typeContrat": "CDI",
+    "datePublication": "2025-07-15T12:00:00Z",
+    "entreprise": "Agrivision Holding"
+  },
+  {
+    "titre": "Jardinier",
+    "description": "Entretien des espaces verts, arrosage et taille des plantes.",
+    "lieu": "Dassa-Zoumè",
+    "typeContrat": "Temps partiel",
+    "datePublication": "2025-07-14T09:00:00Z",
+    "entreprise": "Agrivision Holding"
+  },
+  {
+    "titre": "Technicien informatique",
+    "description": "Maintenance des équipements, assistance aux utilisateurs.",
+    "lieu": "Cotonou",
+    "typeContrat": "CDI",
+    "datePublication": "2025-07-13T16:00:00Z",
+    "entreprise": "Agrivision Holding"
+  },
+  {
+    "titre": "Vendeur boutique",
+    "description": "Accueil des clients, gestion de la caisse et mise en rayon.",
+    "lieu": "Ouidah",
+    "typeContrat": "CDD",
+    "datePublication": "2025-07-12T13:30:00Z",
+    "entreprise": "Agrivision Holding"
+  }
+]
